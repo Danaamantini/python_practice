@@ -1,0 +1,5 @@
+number = int(input("Enter an Integer:"))
+op1 = (number * 5)
+print("The result is:", op1)
+op2 = (number / 2)
+print("The result is:", op2)
